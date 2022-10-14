@@ -200,6 +200,10 @@ body .text-light{
 }
 
 
+body .pd-40{
+  padding-bottom:40px !important;
+}
+
 
 /** Heo webiste **/
 
@@ -617,6 +621,14 @@ textarea:focus {
       background-color: #fff; }
       .header-area.sticky .vcard-main-menu .classy-navbar {
         height: 80px; }
+
+
+
+
+   body .classy-navbar .logo-img{
+       max-width:180px;
+       height:40px;
+   }     
 
 /* :: 5.0 Hero Area */
 .hero-area {
